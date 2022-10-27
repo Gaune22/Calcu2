@@ -1,0 +1,15 @@
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.csproj.AssemblyReference.cache
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.csproj.SuggestedBindingRedirects.cache
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.index.resources
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.csproj.GenerateResource.cache
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\bin\Debug\Btlon.exe.config
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\bin\Debug\Btlon.exe
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\bin\Debug\Btlon.pdb
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.Properties.Resources.resources
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.csproj.CoreCompileInputs.cache
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.exe
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.pdb
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.choi3so.resources
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.choi4so.resources
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.choi5so.resources
+D:\CNXHKH\C#\XoSo Vietlott\Btlon\obj\Debug\Btlon.Result.resources
